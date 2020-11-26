@@ -58,7 +58,7 @@ async function search(query) {
 
 ### fields
 
-Following fileds are supported:
+Following fields are supported:
 
 - title: the title
 - subtitle: the subtitle
